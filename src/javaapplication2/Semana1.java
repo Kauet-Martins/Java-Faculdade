@@ -6,7 +6,7 @@ public class Semana1 {
 
     public static void main(String[] args){
 
-        JOptionPane.showMessageDialog(null, "Hello Word");
+        JOptionPane.showMessageDialog(null, "Hello World");
 
     }
 
