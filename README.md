@@ -4,7 +4,7 @@ Semana-1
 
 Instalacao e Primeiros comandos
 
-System.out.printl("Hellow World")
+System.out.println("Hellow World")
 
 Semana-2
 
