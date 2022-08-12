@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2557e0c-4d1f-4eb1-8b54-e8450dfc04b6" name="Changes" comment="Java-Faculdade" />
+    <list default="true" id="c2557e0c-4d1f-4eb1-8b54-e8450dfc04b6" name="Changes" comment="Java-Faculdade">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2D8Nyq9EEjQSuwpLw2FCuNw3A5q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -35,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Semana1">
+  <component name="RunManager" selected="Application.ex010">
     <configuration name="Ex006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaapplication2.Ex006" />
       <module name="Programas-Java" />
@@ -51,19 +56,6 @@
     </configuration>
     <configuration name="Semana1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaapplication2.Semana1" />
-      <module name="Programas-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaapplication2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaapplication2.ex007" />
       <module name="Programas-Java" />
       <extension name="coverage">
         <pattern>
@@ -101,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaapplication2.ex010" />
+      <module name="Programas-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaapplication2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex010" />
         <item itemvalue="Application.Semana1" />
         <item itemvalue="Application.ex008" />
         <item itemvalue="Application.Ex006" />
         <item itemvalue="Application.ex009" />
-        <item itemvalue="Application.ex007" />
       </list>
     </recent_temporary>
   </component>
